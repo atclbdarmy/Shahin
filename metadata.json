@@ -1,0 +1,7 @@
+{
+  "name": "LaborConnect",
+  "description": "A digital marketplace to find daily laborers in close proximity. View real-time locations on a map, check hourly rates, and use AI-powered matching to find the perfect worker for your needs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
